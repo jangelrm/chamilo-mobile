@@ -1,0 +1,7 @@
+platforms/
+plugins/
+node_modules/
+google-services.json
+GoogleService-Info.plist
+package.json
+package-lock.json
